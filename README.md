@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tshiamomahloko
-- 👀 I’m interested in Web Development, Javascript, Typescript, Angular
-- 🌱 I’m currently learning Angular and React
-- 💞️ I’m looking to collaborate on Angular projects
+- 👀 I’m interested in Web Development, Javascript, Typescript, Angular, VueJS
+- 🌱 I’m currently learning Angular, React and VueJS
+- 💞️ I’m looking to collaborate on VueJS projects
 - 📫 How to reach me tshiahloks@gmail.com
 
 <!---
